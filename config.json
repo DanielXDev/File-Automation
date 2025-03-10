@@ -1,0 +1,12 @@
+{
+    "download_directory": "C:\\Users\\USER\\Downloads",
+    "organized_folders": {
+        "videos": "Downloaded_Videos",
+        "images": "Downloaded_Images",
+        "documents": "Downloaded_Documents",
+        "spreadsheets": "Downloaded_Spreadsheets",
+        "audio": "Downloaded_Audio",
+        "archives": "Downloaded_Archives",
+        "code": "Downloaded_Code_Files"
+    }
+}
