@@ -35,7 +35,6 @@ spreadsheet_extensions = (".csv", ".xlsx", ".xls", ".ods", ".json", ".xml", ".ts
 audio_extensions = (".mp3", ".wav", ".flac", ".aac", ".ogg", ".m4a", ".wma", ".opus", ".mid")
 archive_extensions = (".zip", ".rar", ".tar", ".gz", ".7z", ".bz2", ".xz", ".iso")
 code_extensions = (".py", ".js", ".html", ".css", ".json", ".yaml", ".yml", ".c", ".cpp", ".java", ".go", ".sh", ".sql")
-
 excluded_extensions = (".tmp", ".crdownload", ".part", ".download")
 
 
